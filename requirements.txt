@@ -1,0 +1,17 @@
+# Core
+numpy>=1.24
+scipy>=1.10
+opencv-python>=4.8
+mediapipe>=0.10.9
+
+# Deep learning
+torch>=2.0
+
+# Visualization / reporting
+matplotlib>=3.7
+
+# Testing
+pytest>=7.4
+
+# Optional: live demo GUI needs a display-enabled OpenCV build
+# (opencv-python, not opencv-python-headless) -- see README.
