@@ -1,7 +1,7 @@
 # Remote Photoplethysmography (rPPG) Heart Rate Estimation from Video
 
 Estimate a person's heart rate (BPM) purely from RGB face video — no contact
-sensor — by detecting the subtle skin-color fluctuations caused by blood
+sensor — by detecting the subtle skin-color fluctuations caused by blood 
 flow. This project implements:
 
 1. **Face detection & ROI tracking** (MediaPipe FaceLandmarker)
